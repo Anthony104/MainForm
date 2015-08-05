@@ -1,0 +1,11 @@
+F:\Anthony\C#\RSS Reader\MainForm\bin\Debug\MainForm.exe.config
+F:\Anthony\C#\RSS Reader\MainForm\bin\Debug\MainForm.exe
+F:\Anthony\C#\RSS Reader\MainForm\bin\Debug\MainForm.pdb
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.ChannelDialog.resources
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.FolderDialog.resources
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.Form1.resources
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.exe
+F:\Anthony\C#\RSS Reader\MainForm\obj\Debug\MainForm.pdb
